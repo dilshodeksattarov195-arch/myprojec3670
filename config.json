@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdonnect",
+        "uuid": 10356740,
+        "checksum": "5j73h9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
